@@ -104,3 +104,8 @@ body {
         display: flex;
         justify-content: end;
     }
+
+    .rodape {
+        position: absolute;
+        bottom: 0;
+    }
