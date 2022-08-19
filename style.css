@@ -109,3 +109,8 @@ body {
         position: absolute;
         bottom: 0;
     }
+
+    #pg {
+        font-size: 20px;
+        text-align: center;
+    }
